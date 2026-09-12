@@ -1,6 +1,6 @@
 {
-  "version": "v1.8",
-  "file_size": "36MB",
-  "download_url": "https://github.com/2780597645/wuming/releases/download/v1.8/无名内核_v1.8.zip",
-  "changelog": "1. 修复问题\n2. 优化功能"
+  "version": "v2.7",
+  "file_size": "34.4MB",
+  "download_url": "https://github.com/2780597645/wuming/releases/download/v2.7/2.7.zip",
+  "changelog": "1. 新增远程更新功能\n2. 优化启动速度\n3. 修复已知问题"
 }
